@@ -1,0 +1,34 @@
+--- Research Output ---
+Timestamp: 2026-09-01 13:32:51
+
+{
+  "topic": "Wildlife in Africa",
+  "summary": "Africa is home to a vast array of wildlife, including endangered species like the African elephant and the lion. The continent\u2019s diverse ecosystems, from savannas to rainforests, support unique biodiversity that requires urgent conservation efforts.",
+  "sources": [
+    "https://www.nationalgeographic.org/animals/africa",
+    "https://en.wikipedia.org/wiki/African_wildlife"
+  ],
+  "tools_used": [
+    "search_web",
+    "wikipedia",
+    "save_text_to_file"
+  ]
+}
+
+--- Research Output ---
+Timestamp: 2026-09-01 13:34:58
+
+{
+  "topic": "Wildlife in Asia",
+  "summary": "This research paper explores the diverse wildlife species found across Asia, highlighting conservation efforts and ecological challenges. It covers key species, habitats, and the impact of human activities on Asian ecosystems.",
+  "sources": [
+    "https://www.nationalgeographic.org/asia/wildlife",
+    "https://www.worldwildlife.org/asia",
+    "https://www.iucn.org/species/profile/13755"
+  ],
+  "tools_used": [
+    "search_web",
+    "save_text_to_file"
+  ]
+}
+
